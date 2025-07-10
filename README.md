@@ -12,7 +12,7 @@ Aqui você vai encontrar:
 ✅ Código limpo, comentado e pronto para evoluir  
 
 Tudo isso desenvolvido com muito Python, criatividade, e claro, doses generosas de café ☕!  
-<br><br>
+<br>
 
 ## 💻 Tecnologias Utilizadas
 
